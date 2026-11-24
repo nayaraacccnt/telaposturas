@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="900" viewBox="0 0 430 900" role="img" aria-labelledby="title desc">
+  <title id="title">Prévia da Plataforma Municipal em um smartphone</title>
+  <desc id="desc">Tela móvel com navegação, painel de indicadores e ações rápidas.</desc>
+  <defs>
+    <clipPath id="screen"><rect x="20" y="18" width="390" height="864" rx="38"/></clipPath>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#173746" flood-opacity=".10"/></filter>
+  </defs>
+  <rect width="430" height="900" rx="52" fill="#101619"/>
+  <rect x="8" y="8" width="414" height="884" rx="48" fill="#30383c"/>
+  <rect x="20" y="18" width="390" height="864" rx="38" fill="#f3f6f8"/>
+  <g clip-path="url(#screen)" font-family="Arial, Helvetica, sans-serif">
+    <rect x="20" y="18" width="390" height="864" fill="#f3f6f8"/>
+    <rect x="20" y="18" width="390" height="28" fill="#35149a"/>
+    <text x="39" y="37" fill="#fff" font-size="13" font-weight="700">16:16</text>
+    <text x="326" y="37" fill="#fff" font-size="12">◈  Wi-Fi  ▮  84%</text>
+    <rect x="20" y="46" width="390" height="58" fill="#fff" filter="url(#shadow)"/>
+    <text x="39" y="82" fill="#103f49" font-size="25">☰</text>
+    <text x="78" y="80" fill="#667782" font-size="12">Plataforma</text>
+    <text x="143" y="80" fill="#9aa6ad" font-size="12">/</text>
+    <text x="156" y="80" fill="#17252e" font-size="12" font-weight="700">Visão geral</text>
+    <circle cx="378" cy="75" r="17" fill="#e4eef9"/>
+    <text x="378" y="80" text-anchor="middle" fill="#1268d3" font-size="11" font-weight="700">DM</text>
+    <g transform="translate(35 122)">
+      <text x="0" y="12" fill="#1268d3" font-size="9" font-weight="700" letter-spacing="1">SEXTA-FEIRA, 2 DE OUTUBRO DE 2026</text>
+      <text x="0" y="43" fill="#17252e" font-size="24" font-weight="700">Boa tarde, David</text>
+      <text x="0" y="65" fill="#667782" font-size="12">Acompanhe a operação e continue suas atividades.</text>
+    </g>
+    <g filter="url(#shadow)">
+      <rect x="35" y="211" width="174" height="91" rx="14" fill="#fff" stroke="#dce3e8"/>
+      <rect x="220" y="211" width="174" height="91" rx="14" fill="#fff" stroke="#dce3e8"/>
+      <rect x="35" y="312" width="174" height="91" rx="14" fill="#fff" stroke="#dce3e8"/>
+      <rect x="220" y="312" width="174" height="91" rx="14" fill="#fff" stroke="#dce3e8"/>
+    </g>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="50" y="236" fill="#667782" font-size="11">Registros no período</text><text x="50" y="273" fill="#17252e" font-size="27" font-weight="700">128</text><text x="50" y="290" fill="#18845a" font-size="10">↑ 12% neste período</text>
+      <text x="235" y="236" fill="#667782" font-size="11">Vistorias pendentes</text><text x="235" y="273" fill="#17252e" font-size="27" font-weight="700">14</text><text x="235" y="290" fill="#667782" font-size="10">3 vencem em 7 dias</text>
+      <text x="50" y="337" fill="#667782" font-size="11">Equipes em campo</text><text x="50" y="374" fill="#17252e" font-size="27" font-weight="700">6</text><text x="50" y="391" fill="#667782" font-size="10">18 agentes ativos hoje</text>
+      <text x="235" y="337" fill="#667782" font-size="11">Demandas abertas</text><text x="235" y="374" fill="#17252e" font-size="27" font-weight="700">32</text><text x="235" y="391" fill="#667782" font-size="10">8 aguardando encaminhamento</text>
+    </g>
+    <rect x="35" y="419" width="359" height="411" rx="16" fill="#fff" stroke="#dce3e8" filter="url(#shadow)"/>
+    <text x="53" y="450" fill="#17252e" font-size="16" font-weight="700">Ações rápidas</text>
+    <rect x="53" y="463" width="323" height="24" rx="12" fill="#eaf2ff"/>
+    <text x="214" y="479" text-anchor="middle" fill="#145cb5" font-size="10" font-weight="700">OPERAÇÃO DE CAMPO</text>
+    <g>
+      <rect x="53" y="499" width="153" height="91" rx="12" fill="#fff" stroke="#dce3e8"/><rect x="216" y="499" width="160" height="91" rx="12" fill="#fff" stroke="#dce3e8"/>
+      <rect x="53" y="600" width="153" height="91" rx="12" fill="#fff" stroke="#dce3e8"/><rect x="216" y="600" width="160" height="91" rx="12" fill="#fff" stroke="#dce3e8"/>
+      <rect x="53" y="701" width="153" height="91" rx="12" fill="#fff" stroke="#dce3e8"/><rect x="216" y="701" width="160" height="91" rx="12" fill="#fff" stroke="#dce3e8"/>
+    </g>
+    <g fill="#1268d3" font-size="19" font-weight="700"><text x="67" y="526">⌕</text><text x="230" y="526">✓</text><text x="67" y="627">◉</text><text x="230" y="627">▣</text><text x="67" y="728">▤</text><text x="230" y="728">＋</text></g>
+    <g fill="#17252e" font-size="11" font-weight="700"><text x="67" y="548">Nova fiscalização</text><text x="230" y="548">Nova vistoria</text><text x="67" y="649">Nova ocorrência</text><text x="230" y="649">Novo recolhimento</text><text x="67" y="750">Nova apreensão</text><text x="230" y="750">Nova solicitação</text></g>
+    <g fill="#667782" font-size="9"><text x="67" y="568">Registrar atividade</text><text x="230" y="568">Criar checklist</text><text x="67" y="669">Registrar boletim</text><text x="230" y="669">Adicionar itens</text><text x="67" y="770">Registrar termo</text><text x="230" y="770">Encaminhar demanda</text></g>
+    <rect x="20" y="850" width="390" height="32" fill="#111"/>
+    <rect x="193" y="861" width="44" height="4" rx="2" fill="#fff"/>
+  </g>
+  <rect x="164" y="22" width="102" height="20" rx="10" fill="#101619"/>
+</svg>
